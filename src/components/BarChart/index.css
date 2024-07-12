@@ -1,0 +1,29 @@
+
+  .chart {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .tooltip {
+    position: absolute;
+    opacity: 0;
+    background-color: white;
+    padding: 3px;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 12px;
+  }
+  .bar rect.highlighted {
+    fill: #c9ebff; /* Change the fill color to highlight */
+  }
+  .filteredBar rect.highlighted {
+    fill: rgb(255, 198, 91); /* Change the fill color to highlight */
+  }
+  .chart-title {
+    font-size: 16px;
+    transform: translateY(40px);
+}

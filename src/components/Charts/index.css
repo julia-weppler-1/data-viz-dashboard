@@ -1,0 +1,6 @@
+.chart-container-parent {
+    width: 90%; /* Set container width to 90% of the page width */
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }

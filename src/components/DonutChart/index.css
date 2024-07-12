@@ -1,0 +1,34 @@
+.tooltip {
+    position: absolute;
+    background-color: white;
+    padding: 3px;
+    border: 1px #ccc;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 12px;
+    opacity: 0;
+
+}
+
+.bar rect.highlighted {
+    fill: orange;
+    /* Change the fill color to highlight */
+}
+
+.chart-title {
+    font-size: 16px;
+    transform: translateY(40px);
+}
+
+.chart { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+}
+
+.overflow { 
+    overflow: visible;
+}
+
