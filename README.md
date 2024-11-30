@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a data visualization dashboard built using D3.js and React.js. It provides a platform to easily customize data exploration through multiple data viz techniques, learned under Dr. Nam Wook Kim at Boston College.
+This project is a data visualization dashboard built using D3.js and React.js. It provides a platform to easily customize data communication through multiple data viz techniques, learned under Dr. Nam Wook Kim at Boston College, and was a product of experimental development to best foster guided exploration into survey data.
 
 ## Features
 
