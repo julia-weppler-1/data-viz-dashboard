@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a data visualization dashboard built using D3.js and React.js. It provides a comprehensive view of [describe what your dashboard is visualizing, e.g., sales data, user analytics, etc.].
+This project is a data visualization dashboard built using D3.js and React.js. It provides a platform to easily customize data exploration through multiple data viz techniques, learned under Dr. Nam Wook Kim at Boston College.
 
 ## Features
 
